@@ -15,7 +15,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  baseUrl: /statuspage
   logoUrl: https://landing.staging01.lyrid.io/assets/images/resources/logo_transparent.png
   favicon: https://landing.staging01.lyrid.io/assets/images/favicons/apple-touch-icon.png
   name: "Lyrid's Status Page"
