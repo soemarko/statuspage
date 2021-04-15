@@ -5,19 +5,21 @@ repo: statuspage # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Home
-    url: https://landing.lyrid.io
+    url: https://lyrid.io
   - name: API Server
     url: https://api.lyrid.io/version
   - name: Authentication Server
     url: https://id.lyrid.io/version
+  - name: Test down service
+    url: http://lyrid-02c9ef46-f5ff-4ef3-8912-448dabee4e50.default.lyr.id/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /statuspage
-  logoUrl: https://landing.staging01.lyrid.io/assets/images/resources/logo_transparent.png
-  favicon: https://landing.staging01.lyrid.io/assets/images/favicons/apple-touch-icon.png
+  logoUrl: https://lyrid.io/assets/images/resources/logo_transparent.png
+  favicon: https://lyrid.io/assets/images/favicons/apple-touch-icon.png
   name: "Lyrid's Status Page"
   themeUrl: https://appify.org/lyrid.css
   introTitle: "Lyrid's Status Page"
