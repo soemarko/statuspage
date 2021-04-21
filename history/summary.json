@@ -58,17 +58,17 @@
     "url": "https://soemarko.com/spark/",
     "icon": "https://favicons.githubusercontent.com/soemarko.com",
     "slug": "test-down-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 628,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 411,
+    "time": 455,
+    "timeDay": 682,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   }
 ]
