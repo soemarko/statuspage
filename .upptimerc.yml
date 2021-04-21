@@ -11,7 +11,7 @@ sites:
   - name: Authentication Server
     url: https://id.lyrid.io/version
   - name: Test down service
-    url: http://lyrid-02c9ef46-f5ff-4ef3-8912-448dabee4e50.default.lyr.id/
+    url: https://soemarko.com/spark/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
