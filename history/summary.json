@@ -55,20 +55,20 @@
   },
   {
     "name": "Test down service",
-    "url": "http://lyrid-02c9ef46-f5ff-4ef3-8912-448dabee4e50.default.lyr.id/",
-    "icon": "https://favicons.githubusercontent.com/lyrid-02c9ef46-f5ff-4ef3-8912-448dabee4e50.default.lyr.id",
+    "url": "https://soemarko.com/spark/",
+    "icon": "https://favicons.githubusercontent.com/soemarko.com",
     "slug": "test-down-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 159,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "time": 322,
+    "timeDay": 492,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   }
 ]
