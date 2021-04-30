@@ -10,8 +10,8 @@ sites:
     url: https://api.lyrid.io/version
   - name: Authentication Server
     url: https://id.lyrid.io/version
-  - name: Test down service
-    url: https://soemarko.com/spark/
+  - name: Yukbid URL Shortener
+    url: https://link.yukb.id/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
