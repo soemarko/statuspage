@@ -4,10 +4,10 @@
     "url": "https://lyrid.io",
     "icon": "https://favicons.githubusercontent.com/lyrid.io",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
@@ -15,7 +15,9 @@
     "timeWeek": 388,
     "timeMonth": 403,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-31": 1
+    }
   },
   {
     "name": "API Server",
@@ -40,10 +42,10 @@
     "url": "https://id.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/id.lyrid.io",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -51,14 +53,16 @@
     "timeWeek": 263,
     "timeMonth": 266,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-31": 1
+    }
   },
   {
     "name": "Yukbid URL Shortener",
     "url": "https://link.yukb.id/version",
     "icon": "https://favicons.githubusercontent.com/link.yukb.id",
     "slug": "yukbid-url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 3663,
     "timeMonth": 2982,
     "timeYear": 2982,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-31": 0
+    }
   }
 ]
