@@ -4,19 +4,19 @@
     "url": "https://lyrid.io",
     "icon": "https://favicons.githubusercontent.com/lyrid.io",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 444,
-    "timeWeek": 388,
-    "timeMonth": 403,
-    "timeYear": 556,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.91%",
+    "time": 552,
+    "timeDay": 347,
+    "timeWeek": 371,
+    "timeMonth": 398,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2021-05-31": 1
+      "2021-05-31": 98
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://id.lyrid.io/version",
     "icon": "https://favicons.githubusercontent.com/id.lyrid.io",
     "slug": "authentication-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 288,
-    "timeWeek": 263,
-    "timeMonth": 266,
-    "timeYear": 298,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.91%",
+    "time": 296,
+    "timeDay": 238,
+    "timeWeek": 253,
+    "timeMonth": 263,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2021-05-31": 1
+      "2021-05-31": 97
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://link.yukb.id/version",
     "icon": "https://favicons.githubusercontent.com/link.yukb.id",
     "slug": "yukbid-url-shortener",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2982,
-    "timeDay": 2925,
-    "timeWeek": 3663,
-    "timeMonth": 2982,
-    "timeYear": 2982,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 3010,
+    "timeDay": 3436,
+    "timeWeek": 3698,
+    "timeMonth": 3010,
+    "timeYear": 3010,
     "dailyMinutesDown": {
-      "2021-05-31": 0
+      "2021-05-31": 97
     }
   }
 ]
