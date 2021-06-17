@@ -66,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/link.yukb.id",
     "slug": "yukbid-url-shortener",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 3324,
     "timeDay": 4320,
     "timeWeek": 4073,
@@ -86,17 +86,19 @@
     "url": "https://yukbid.lyr.id/homepage",
     "icon": "https://favicons.githubusercontent.com/yukbid.lyr.id",
     "slug": "yukbid-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 16289,
-    "timeDay": 17343,
-    "timeWeek": 17532,
-    "timeMonth": 16289,
-    "timeYear": 16289,
-    "dailyMinutesDown": {}
+    "time": 15478,
+    "timeDay": 11138,
+    "timeWeek": 15957,
+    "timeMonth": 15478,
+    "timeYear": 15478,
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   }
 ]
