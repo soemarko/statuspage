@@ -86,19 +86,19 @@
     "url": "https://yukbid.lyr.id/homepage",
     "icon": "https://favicons.githubusercontent.com/yukbid.lyr.id",
     "slug": "yukbid-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 15478,
-    "timeDay": 11138,
-    "timeWeek": 15957,
-    "timeMonth": 15478,
-    "timeYear": 15478,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 15667,
+    "timeDay": 13526,
+    "timeWeek": 16218,
+    "timeMonth": 15667,
+    "timeYear": 15667,
     "dailyMinutesDown": {
-      "2021-06-17": 0
+      "2021-06-17": 10
     }
   }
 ]
