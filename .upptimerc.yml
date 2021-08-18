@@ -12,8 +12,8 @@ sites:
     url: https://id.lyrid.io/version
   - name: Yukbid URL Shortener
     url: https://link.yukb.id/version
-  - name: Yukbid Staging
-    url: https://yukbid.lyr.id/homepage
+#  - name: Yukbid Staging
+#    url: https://yukbid.lyr.id/homepage
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
